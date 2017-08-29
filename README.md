@@ -1,0 +1,1 @@
+# cordova application for studying
